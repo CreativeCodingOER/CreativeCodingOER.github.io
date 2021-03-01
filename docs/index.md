@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Test
+[Link to another page](./about.html).
