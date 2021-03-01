@@ -5,4 +5,7 @@
 layout: home
 ---
 
-[Link to another page](./about.html).
+[Link to ./about.html](./about.html).
+[Link to /about/](/about/).
+[Link to ./about/](./about/).
+
