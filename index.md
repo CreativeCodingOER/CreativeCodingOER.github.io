@@ -2,5 +2,4 @@
 layout: default
 ---
 
-[Link to /about/](/about/).
-
+[Here is a link to /about/](/about/).
